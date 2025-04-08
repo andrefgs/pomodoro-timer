@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Se quiser adicionar css próprio, pode fazer aqui também */
+body {
+  @apply bg-gray-100;
+}
